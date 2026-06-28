@@ -1,6 +1,10 @@
 # Ajith Joseph
 **AI Systems Engineer · Enterprise Architect · Founder**
 
+**Building EvalStack — open source eval framework for production AI agents. 
+20 years shipping enterprise systems at scale. 
+Now focused on LLM infrastructure, multi-agent systems, and AI observability.**
+
 I build production-grade AI systems. 20 years shipping software at scale across 
 Thomson Reuters, TravelPort, Ameriprise Financial, JPMorgan Chase, NextEra Energy and others. 
 Now focused entirely on LLM infrastructure, multi-agent systems, and AI eval pipelines.
