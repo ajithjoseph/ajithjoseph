@@ -59,4 +59,4 @@ working in production AI systems.
 
 ---
 
-*Building EvalStack and ThyWord in public. Follow along.*
+*Building [EvalStack](https://evalstack.dev) and [ThyWord](https://thywordapp.com) in public. Follow along.*
