@@ -59,5 +59,4 @@ working in production AI systems.
 
 ---
 
-*Open to Staff AI Engineer and Forward Deployed AI Engineer roles at frontier labs 
-and well-funded AI startups. Jacksonville FL · Remote.*
+*Building EvalStack and ThyWord in public. Follow along.*
