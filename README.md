@@ -1,19 +1,24 @@
 # Ajith Joseph
-**AI Systems Engineer · Enterprise Architect · Founder**
+**AI Systems Engineer · Cloud Architect · Founder**
 
-**Building EvalStack — open source eval framework for production AI agents. 
+**Building ShadowTel — a pre-merge performance monitoring infrastructure for AI-DLC based enterprises.
+ShadowTel replays real production traffic against every code change and blocks the merge if it makes 
+your system slower, less reliable, or more expensive to run.
 20 years shipping enterprise systems at scale. 
 Now focused on LLM infrastructure, multi-agent systems, and AI observability.**
 
+**Building EvalStack — open source eval framework for production AI agents. 
+Arised out of a use case while building ThyWord Voice AI platform.**
+
 I build production-grade AI systems. 20 years shipping software at scale across 
-Thomson Reuters, TravelPort, Ameriprise Financial, JPMorgan Chase, NextEra Energy and others. 
-Now focused entirely on LLM infrastructure, multi-agent systems, and AI eval pipelines.
+Thomson Reuters, TravelPort, Ameriprise Financial, Mastercard, NEER and others. 
+Now focused entirely on LLM infrastructure, multi-agent systems, AI eval pipelines and pre-merge performance gate infrastructure.
 
 ---
 
 ## What I am building right now
 
-**EvalStack** *(launching July 2026)* — An open source evaluation and observability 
+**EvalStack** *(launched July 2026)* — An open source evaluation and observability 
 framework for production multi-agent AI systems. Because LLM apps are easy to build 
 and hard to trust.
 
