@@ -7,7 +7,7 @@ This repo holds my GitHub profile page. `README.md` is the page itself.
 - Use plain markdown tables and short sentences. Write in first person, in a natural voice.
 - Keep the tone modest. Describe the PerfAgents acquisition in one short line, with no numbers.
 - Describe enterprise work by industry rather than by company.
-- Link only to LinkedIn, Credly, GitHub repos, shadowtel.com, evalstack.dev, thywordapp.com, perfagents.com and the app store pages.
+- Link only to LinkedIn, Credly, GitHub repos, shadowtel.com, evalstack.dev, thywordapp.com, perfagents.com, the app store pages and the Amazon page for my book.
 
 ## Facts to keep consistent
 - Titles: PerfAgents, Founder · Principal Engineer. ThyWord and Shepherd, Co-Founder · Principal Engineer.
