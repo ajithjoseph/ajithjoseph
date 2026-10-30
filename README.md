@@ -15,13 +15,6 @@ I build developer tools that make AI-written software safe to ship.<br />
   · <a href="https://www.credly.com/users/ajithjoseph/badges"><strong>Certifications</strong></a>
 </p>
 
-<p>
-  <a href="https://ajith.ai"><img src="https://img.shields.io/badge/Website-ajith.ai-111111?style=for-the-badge" alt="Website: ajith.ai"></a>
-  <a href="https://linkedin.com/in/theajithjoseph"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://codekidsandcash.com"><img src="https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
-  <a href="https://www.credly.com/users/ajithjoseph/badges"><img src="https://img.shields.io/badge/Credly-Verified-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications"></a>
-</p>
-
 </div>
 
 ## What I'm building
