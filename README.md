@@ -48,7 +48,7 @@ All certifications are verifiable on [Credly](https://www.credly.com/users/ajith
 | Agents & orchestration | LangChain · LangGraph · Claude Agent SDK · OpenAI Agents SDK · Spring AI · Amazon Bedrock Agents · MCP servers and gateways · ReAct · AWS Step Functions |
 | Models & inference | OpenAI · Anthropic · Google Gemini · Gloo AI · vLLM · Ollama for local open-weight models · multi-provider routing with failover and cost control |
 | Voice AI | ElevenLabs · pluggable speech-to-text and text-to-speech |
-| Retrieval & data | PostgreSQL with pgvector · Pinecone · MongoDB · OpenSearch Serverless |
+| Retrieval & data | PostgreSQL with pgvector · MongoDB · OpenSearch Serverless |
 | Evals | EvalStack · Pydantic · pytest |
 | Backend & APIs | Java 21 · Spring Boot 3 · Spring Security (OAuth2, JWT) · FastAPI · WebSockets · REST |
 | Mobile & web | React Native · Expo · Expo Router · Zustand · Reanimated · Next.js · React |
