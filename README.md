@@ -30,9 +30,9 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 
 | What | My role | Details |
 |---|---|---|
-| **[PerfAgents](https://perfagents.com)** | Founder · Principal Engineer | Kubernetes-native synthetic monitoring SaaS. Acquired by Testing Mavens in 2025. |
-| **[ThyWord](https://thywordapp.com)** | Co-Founder · Principal Engineer | Voice-first prayer AI app. Launched February 2026, 15K+ downloads. |
-| **Shepherd** | Co-Founder · Principal Engineer | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
+| **[PerfAgents](https://perfagents.com)** | Principal Engineer · Founder | Kubernetes-native synthetic monitoring SaaS. Acquired by Testing Mavens in 2025. |
+| **[ThyWord](https://thywordapp.com)** | Principal Engineer · Co-Founder | Voice-first prayer AI app. Launched February 2026, 15K+ downloads. |
+| **Shepherd** | Principal Engineer · Co-Founder | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
 | **Enterprise** | Engineer and architect | 20 years of enterprise architecture and engineering across banking, payments, insurance, travel and financial data |
 
 ### Try ThyWord
