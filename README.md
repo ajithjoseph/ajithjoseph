@@ -35,6 +35,15 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 | **Shepherd** | Co-Founder · Principal Engineer | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
 | **Enterprise** | Engineer and architect | 20 years of enterprise architecture and engineering across banking, payments, insurance, travel and financial data |
 
+### Try ThyWord
+
+Scan with your phone camera to download.
+
+| iOS | Android |
+|:---:|:---:|
+| <a href="https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669"><img src="assets/thyword-ios.svg" width="160" alt="QR code for ThyWord on the App Store"></a> | <a href="https://play.google.com/store/apps/details?id=com.thywordinc.thyword"><img src="assets/thyword-android.svg" width="160" alt="QR code for ThyWord on Google Play"></a> |
+| [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) | [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+
 ## Credentials
 
 | Credential | Issuer |
