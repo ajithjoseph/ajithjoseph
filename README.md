@@ -60,7 +60,7 @@ All certifications are verifiable on [Credly](https://www.credly.com/users/ajith
 
 | Area | Tools |
 |---|---|
-| Agents & orchestration | LangChain · LangGraph · Claude Agent SDK · OpenAI Agents SDK · Spring AI · Amazon Bedrock Agents · MCP servers and gateways · AWS Step Functions |
+| Agents & orchestration | LangChain · LangGraph · Claude Agent SDK · OpenAI Agents SDK<br>Spring AI · Amazon Bedrock Agents · MCP servers and gateways · AWS Step Functions |
 | Models & inference | OpenAI · Anthropic · Google Gemini · Gloo AI · vLLM · Ollama for local open-weight models · multi-provider routing with failover and cost control |
 | Voice AI | ElevenLabs · pluggable speech-to-text and text-to-speech |
 | Retrieval & data | PostgreSQL with pgvector · MongoDB · OpenSearch Serverless |
@@ -68,7 +68,7 @@ All certifications are verifiable on [Credly](https://www.credly.com/users/ajith
 | Backend & APIs | Java 21 · Spring Boot 3 · Spring Security (OAuth2, JWT) · FastAPI · WebSockets |
 | Mobile & web | React Native · Expo · Next.js · React |
 | Product & growth | RevenueCat · Firebase · PostHog |
-| Cloud & platform | AWS (App Runner, ECR, S3, Secrets Manager) · Azure · Kubernetes (EKS, AKS) · Terraform · Ansible · ArgoCD · Docker |
+| Cloud & platform | AWS (App Runner, ECR, S3, Secrets Manager) · Azure · Kubernetes (EKS, AKS)<br>Terraform · Ansible · ArgoCD · Docker |
 | CI/CD & observability | GitHub Actions · OpenTelemetry · Datadog |
 | Data platform | Lake Formation · Glue · Redshift · Athena · EMR · Spark (Scala, PySpark) |
 | Languages | Java · Python · TypeScript · Scala |
