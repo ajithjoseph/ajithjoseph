@@ -79,4 +79,4 @@ Every week I share build logs, architecture decisions, and what actually works i
 
 Want to talk about evals, AI infrastructure or keeping AI-written code honest? [Message me on LinkedIn](https://linkedin.com/in/theajithjoseph).
 
-<p align="center"><img src="assets/name.png" width="260" alt="Ajith Joseph"></p>
+<p align="center"><img src="assets/name.png" width="260" alt="ajith joseph"></p>
