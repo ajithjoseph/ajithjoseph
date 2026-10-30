@@ -26,25 +26,41 @@ I build developer tools that make AI-written software safe to ship.<br />
 | What | My role | Details |
 |---|---|---|
 | **[PerfAgents](https://perfagents.com)** | Founder | Kubernetes-native synthetic monitoring SaaS. Bootstrapped to 20+ enterprise clients. Acquired by Testing Mavens in 2025. |
-| **[ThyWord](https://thywordapp.com)** | Founder | Voice-first prayer AI app. Launched February 2026, 12K+ downloads. [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
-| **Enterprise** | Engineer and architect | 20 years at Thomson Reuters, Travelport, Ameriprise Financial, Mastercard, NEER and others |
+| **[ThyWord](https://thywordapp.com)** | Founder | Voice-first prayer AI app. Launched February 2026, 13K+ downloads. [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+| **Enterprise** | Engineer and architect | 20 years across Cognizant, Wipro, Capgemini, Mindtree and TCS, on client work for Ally Bank, Mastercard, Ameriprise Financial and American Express. Earlier at Thomson Reuters and Travelport. |
 
 ## Credentials
 
-| Type | Details |
+| Credential | Issuer |
 |---|---|
-| Writing | Author of *Product Engineering in the Cloud* · O'Reilly technical reviewer |
-| Certifications | AWS Solutions Architect Associate · Certified Kubernetes Administrator (CKA) · Microsoft AZ-305 · [verify on Credly](https://www.credly.com/users/ajithjoseph/badges) |
+| Azure Solutions Architect Expert (AZ-305) | Microsoft |
+| AWS Certified Solutions Architect, Associate | Amazon Web Services |
+| Certified Kubernetes Administrator (CKA) | The Linux Foundation |
+| Author, *Product Engineering in the Cloud* (2017) | ISBN 1542596602 |
+| Technical reviewer | O'Reilly Media |
 
-## Stack
+All certifications are verifiable on [Credly](https://www.credly.com/users/ajithjoseph/badges).
 
-| Layer | Tools |
+## Stack by project
+
+| Project | Stack |
 |---|---|
-| LLM frameworks | LangGraph · LangChain · Claude Agent SDK · OpenAI Agents SDK |
-| Inference | vLLM · FastAPI · Docker |
-| Infra & orchestration | Kubernetes · Terraform · AWS |
-| Languages | Python · TypeScript |
-| Evals & CI gates | [EvalStack](https://github.com/ajithjoseph/evalstack) · [ShadowTel](https://shadowtel.com) |
+| ThyWord backend | Java 21 · Spring Boot 3 · Spring AI (OpenAI, Anthropic, Google Gemini) · Spring Security with OAuth2 and JWT · WebSockets · MongoDB · ElevenLabs and pluggable speech-to-text · RevenueCat · Firebase · Docker · AWS App Runner, ECR, S3 and Secrets Manager |
+| ThyWord mobile | React Native · Expo · TypeScript · Expo Router · Zustand · Reanimated · RevenueCat · Firebase · PostHog · Datadog RUM |
+| EvalStack | Python · Pydantic · Anthropic and OpenAI SDKs · pytest · Ruff · GitHub Actions |
+| ShadowTel (planned) | Python CLI · GitHub Actions · tree-sitter · sqlglot · Anthropic and OpenAI models |
+
+## Broader stack
+
+| Area | Tools |
+|---|---|
+| Agents & orchestration | LangChain · LangGraph · Amazon Bedrock Agents · MCP servers and gateways · ReAct · AWS Step Functions |
+| Models & inference | OpenAI · Anthropic · Google Gemini · Ollama for local open-weight models · multi-provider routing with failover and cost control |
+| Retrieval | pgvector · Pinecone · MongoDB · OpenSearch Serverless |
+| Cloud & platform | AWS · Azure · Kubernetes (EKS, AKS) · Terraform · Ansible · ArgoCD · Docker |
+| CI/CD & observability | GitHub Actions · DevSecOps · OpenTelemetry · Datadog |
+| Data platform | Lake Formation · Glue · Redshift · Athena · EMR · Spark (Scala, PySpark) |
+| Languages | Java · Python · TypeScript · Scala |
 
 ## Building in public
 
