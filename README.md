@@ -27,6 +27,7 @@ I build developer tools that make AI-written software safe to ship.<br />
 |---|---|---|
 | **[PerfAgents](https://perfagents.com)** | Founder | Kubernetes-native synthetic monitoring SaaS. Bootstrapped to 20+ enterprise clients. Acquired by Testing Mavens in 2025. |
 | **[ThyWord](https://thywordapp.com)** | Founder | Voice-first prayer AI app. Launched February 2026, 13K+ downloads. [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+| **Shepherd** | Founder | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
 | **Enterprise** | Engineer and architect | 20 years of enterprise architecture and engineering across banking, payments, insurance, travel and financial data |
 
 ## Credentials
@@ -41,26 +42,20 @@ I build developer tools that make AI-written software safe to ship.<br />
 
 All certifications are verifiable on [Credly](https://www.credly.com/users/ajithjoseph/badges).
 
-## Stack by project
-
-| Project | Stack |
-|---|---|
-| ThyWord backend | Java 21 · Spring Boot 3 · Spring AI (OpenAI, Anthropic, Google Gemini) · Spring Security with OAuth2 and JWT · WebSockets · MongoDB · ElevenLabs and pluggable speech-to-text · RevenueCat · Firebase · Docker · AWS App Runner, ECR, S3 and Secrets Manager |
-| ThyWord mobile | React Native · Expo · TypeScript · Expo Router · Zustand · Reanimated · RevenueCat · Firebase · PostHog · Datadog RUM |
-| Shepherd | Python · FastAPI · PostgreSQL with pgvector · OpenAI embeddings · Gloo AI · Next.js · React · Docker · SendBlue SMS · Google Calendar API |
-| EvalStack | Python · Pydantic · Anthropic and OpenAI SDKs · pytest · Ruff · GitHub Actions |
-| ShadowTel (planned) | Python CLI · GitHub Actions · tree-sitter · sqlglot · Anthropic and OpenAI models |
-
-## Broader stack
+## Stack
 
 | Area | Tools |
 |---|---|
-| Agents & orchestration | LangChain · LangGraph · Claude Agent SDK · OpenAI Agents SDK · Amazon Bedrock Agents · MCP servers and gateways · ReAct · AWS Step Functions |
-| Models & inference | OpenAI · Anthropic · Google Gemini · vLLM · Ollama for local open-weight models · multi-provider routing with failover and cost control |
-| Retrieval | pgvector · Pinecone · MongoDB · OpenSearch Serverless |
-| APIs & backend | FastAPI · Spring Boot · WebSockets · REST |
-| Cloud & platform | AWS · Azure · Kubernetes (EKS, AKS) · Terraform · Ansible · ArgoCD · Docker |
-| CI/CD & observability | GitHub Actions · DevSecOps · OpenTelemetry · Datadog |
+| Agents & orchestration | LangChain · LangGraph · Claude Agent SDK · OpenAI Agents SDK · Spring AI · Amazon Bedrock Agents · MCP servers and gateways · ReAct · AWS Step Functions |
+| Models & inference | OpenAI · Anthropic · Google Gemini · Gloo AI · vLLM · Ollama for local open-weight models · multi-provider routing with failover and cost control |
+| Voice AI | ElevenLabs · pluggable speech-to-text and text-to-speech |
+| Retrieval & data | PostgreSQL with pgvector · MongoDB · OpenSearch Serverless |
+| Evals | EvalStack · Pydantic · pytest |
+| Backend & APIs | Java 21 · Spring Boot 3 · Spring Security (OAuth2, JWT) · FastAPI · WebSockets · REST |
+| Mobile & web | React Native · Expo · Expo Router · Zustand · Reanimated · Next.js · React |
+| Product & growth | RevenueCat · Firebase · PostHog · SendBlue SMS · Google Calendar API |
+| Cloud & platform | AWS (App Runner, ECR, S3, Secrets Manager) · Azure · Kubernetes (EKS, AKS) · Terraform · Ansible · ArgoCD · Docker |
+| CI/CD & observability | GitHub Actions · DevSecOps · OpenTelemetry · Datadog · Ruff |
 | Data platform | Lake Formation · Glue · Redshift · Athena · EMR · Spark (Scala, PySpark) |
 | Languages | Java · Python · TypeScript · Scala |
 
