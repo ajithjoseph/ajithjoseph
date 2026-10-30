@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Ajith Joseph</h1>
-<h3>AI Systems Engineer · Cloud Architect · Founder</h3>
+<h3>Principal Engineer · AI Systems · Cloud Architecture</h3>
 
 <p>
 I've spent 20 years building enterprise systems at scale.<br />
@@ -13,9 +13,9 @@ My work covers <b>voice AI</b>, <b>multi-agent systems</b>, <b>RAG</b> and <b>ev
 along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch problems before users do.
 </p>
 
-| LinkedIn | Certifications | GitHub |
-|:---:|:---:|:---:|
-| [theajithjoseph](https://linkedin.com/in/theajithjoseph) | [Credly](https://www.credly.com/users/ajithjoseph/badges) | [ajithjoseph](https://github.com/ajithjoseph) |
+| LinkedIn | Certifications |
+|:---:|:---:|
+| [theajithjoseph](https://linkedin.com/in/theajithjoseph) | [Credly](https://www.credly.com/users/ajithjoseph/badges) |
 
 </div>
 
@@ -23,8 +23,8 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 
 | Project | What it does | Status |
 |---|---|---|
-| **[ShadowTel](https://shadowtel.com)** | An open source GitHub Action that blocks a pull request when AI-written code breaks your database schema, internal APIs or architecture rules. Linters miss these. ShadowTel checks every PR against your real contracts and gives a clear pass or block. | In development |
-| **[EvalStack](https://github.com/ajithjoseph/evalstack)** | An open source evaluation and observability framework for production multi-agent AI systems. LLM apps are easy to build and hard to trust. EvalStack closes that gap. It grew out of the voice AI platform behind ThyWord. | Early release (v0.0.1) · [evalstack.dev](https://evalstack.dev) |
+| **[ShadowTel](https://shadowtel.com)** | A GitHub Action that blocks a pull request when AI-written code breaks your database schema, internal APIs or architecture rules. Linters miss these. ShadowTel checks every PR against your real contracts and gives a clear pass or block. | In development |
+| **[EvalStack](https://github.com/ajithjoseph/evalstack)** | An evaluation and observability framework for production multi-agent AI systems. LLM apps are easy to build and hard to trust. EvalStack closes that gap. It grew out of the voice AI platform behind ThyWord. | Early release (v0.0.1) · [evalstack.dev](https://evalstack.dev) |
 
 ## Products and ventures
 
@@ -33,7 +33,7 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 | **[PerfAgents](https://perfagents.com)** | Principal Engineer · Founder | Kubernetes-native synthetic monitoring SaaS. Acquired by Testing Mavens in 2025. |
 | **[ThyWord](https://thywordapp.com)** | Principal Engineer · Co-Founder | Voice-first prayer AI app. Launched February 2026, 15K+ downloads. |
 | **Shepherd** | Principal Engineer · Co-Founder | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
-| **Enterprise** | Engineer and architect | 20 years of enterprise architecture and engineering across banking, payments, insurance, travel and financial data |
+| **Enterprise** | Architect | 20 years across banking, payments, insurance, travel and financial data |
 
 ### Try ThyWord
 
