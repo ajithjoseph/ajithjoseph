@@ -25,9 +25,9 @@ I build developer tools that make AI-written software safe to ship.<br />
 
 | What | My role | Details |
 |---|---|---|
-| **[PerfAgents](https://perfagents.com)** | Founder | Kubernetes-native synthetic monitoring SaaS. Bootstrapped to 20+ enterprise clients. Acquired by Testing Mavens in 2025. |
-| **[ThyWord](https://thywordapp.com)** | Founder | Voice-first prayer AI app. Launched February 2026, 13K+ downloads. [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
-| **Shepherd** | Founder | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
+| **[PerfAgents](https://perfagents.com)** | Founder · Principal Engineer | Kubernetes-native synthetic monitoring SaaS. Bootstrapped to 20+ enterprise clients. Acquired by Testing Mavens in 2025. |
+| **[ThyWord](https://thywordapp.com)** | Co-Founder · Principal Engineer | Voice-first prayer AI app. Launched February 2026, 13K+ downloads. [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+| **Shepherd** | Co-Founder · Principal Engineer | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
 | **Enterprise** | Engineer and architect | 20 years of enterprise architecture and engineering across banking, payments, insurance, travel and financial data |
 
 ## Credentials
