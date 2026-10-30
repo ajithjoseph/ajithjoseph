@@ -4,8 +4,9 @@
 <h3>AI Systems Engineer · Cloud Architect · Founder</h3>
 
 <p>
-I build developer tools that make AI-written software safe to ship.<br />
-20 years of enterprise systems at scale. Now all in on LLM infrastructure, multi-agent systems and evals.
+I build production AI systems and the tools that keep them reliable.<br />
+Voice AI · multi-agent systems · RAG · evals · synthetic monitoring · pre-merge CI gates.<br />
+20 years of enterprise systems at scale.
 </p>
 
 | LinkedIn | Certifications | EvalStack | ShadowTel |
