@@ -10,7 +10,7 @@ This repo holds my GitHub profile page. `README.md` is the page itself.
 - Link only to LinkedIn, Credly, GitHub repos, shadowtel.com, evalstack.dev, thywordapp.com, perfagents.com, the app store pages and the Amazon page for my book.
 
 ## Facts to keep consistent
-- Titles: PerfAgents, Founder · Principal Engineer. ThyWord and Shepherd, Co-Founder · Principal Engineer.
+- Titles: PerfAgents, Principal Engineer · Founder. ThyWord and Shepherd, Principal Engineer · Co-Founder.
 - ThyWord: launched February 2026, 15K+ downloads.
 - ShadowTel: in development. Open source GitHub Action that blocks PRs when AI-written code breaks schema, API or architecture rules.
 - EvalStack: early release (v0.0.1).
