@@ -78,3 +78,5 @@ All certifications are verifiable on [Credly](https://www.credly.com/users/ajith
 Every week I share build logs, architecture decisions, and what actually works in production AI systems on [LinkedIn](https://linkedin.com/in/theajithjoseph).
 
 Want to talk about evals, AI infrastructure or keeping AI-written code honest? [Message me on LinkedIn](https://linkedin.com/in/theajithjoseph).
+
+<p align="center"><img src="assets/name.png" width="260" alt="ajith joseph"></p>
