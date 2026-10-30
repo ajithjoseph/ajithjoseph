@@ -1,42 +1,58 @@
-# Hi, I'm Ajith Joseph
+<div align="center">
 
-**AI Systems Engineer · Cloud Architect · Founder (1 exit)**
+<h1>Ajith Joseph</h1>
+<h3>AI Systems Engineer · Cloud Architect · Founder (1 exit)</h3>
 
-I build production AI systems: LLM infrastructure, multi-agent systems, eval pipelines, and pre-merge performance gates.
-Before this, I spent 20 years shipping enterprise software at scale for Thomson Reuters, Travelport, Ameriprise Financial, Mastercard, NEER and others.
+<p>
+I build developer tools that make AI-written software safe to ship.<br />
+20 years of enterprise systems at scale. Now all in on LLM infrastructure, multi-agent systems and evals.
+</p>
 
-[![Website](https://img.shields.io/badge/ajith.ai-000000?style=flat&logo=googlechrome&logoColor=white)](https://ajith.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/theajithjoseph)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://codekidsandcash.com)
-[![EvalStack](https://img.shields.io/badge/EvalStack-evalstack.dev-6E40C9?style=flat)](https://evalstack.dev)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/ajithjoseph/badges)
+<p>
+  <a href="https://ajith.ai"><strong>Website</strong></a>
+  · <a href="https://linkedin.com/in/theajithjoseph"><strong>LinkedIn</strong></a>
+  · <a href="https://codekidsandcash.com"><strong>Substack</strong></a>
+  · <a href="https://www.credly.com/users/ajithjoseph/badges"><strong>Certifications</strong></a>
+</p>
 
----
+<p>
+  <a href="https://ajith.ai"><img src="https://img.shields.io/badge/Website-ajith.ai-111111?style=for-the-badge" alt="Website: ajith.ai"></a>
+  <a href="https://linkedin.com/in/theajithjoseph"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://codekidsandcash.com"><img src="https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
+  <a href="https://www.credly.com/users/ajithjoseph/badges"><img src="https://img.shields.io/badge/Credly-Verified-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications"></a>
+</p>
 
-## What I'm building now
+</div>
 
-### [ShadowTel](https://shadowtel.com) *(in design, will be open source)*
-Pre-merge performance monitoring for teams shipping AI-written code.
-ShadowTel replays real production traffic against every code change and **blocks the merge** if the change makes your system slower, less reliable, or more expensive to run.
+## What I'm building
 
-### [EvalStack](https://github.com/ajithjoseph/evalstack)
-Open source evaluation and observability framework for production multi-agent AI systems.
-LLM apps are easy to build and hard to trust. EvalStack exists to close that gap.
-It came out of a real need while building the voice AI platform behind ThyWord.
-Launched July 2026 → [GitHub repo](https://github.com/ajithjoseph/evalstack) · [evalstack.dev](https://evalstack.dev)
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://shadowtel.com">ShadowTel</a></h3>
+<p>An open source GitHub Action that blocks a pull request when AI-written code breaks your database schema, internal APIs or architecture rules. Linters miss these. ShadowTel checks every PR against your real contracts and gives a clear pass or block.</p>
+<p><strong>Status:</strong> in development · <a href="https://shadowtel.com">shadowtel.com</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ajithjoseph/evalstack">EvalStack</a></h3>
+<p>An open source evaluation and observability framework for production multi-agent AI systems. LLM apps are easy to build and hard to trust. EvalStack closes that gap. It grew out of the voice AI platform behind ThyWord.</p>
+<p><strong>Status:</strong> launched July 2026 · <a href="https://github.com/ajithjoseph/evalstack">GitHub</a> · <a href="https://evalstack.dev">evalstack.dev</a></p>
+</td>
+</tr>
+</table>
 
 ## Track record
 
-- **[PerfAgents](https://perfagents.com)** (founder). Kubernetes-native synthetic monitoring SaaS. Bootstrapped to 20+ enterprise clients and [acquired by Testing Mavens](https://www.testingmavens.com/press-releases/testing-mavens-acquires-perfagents) in 2025.
-  [AWS Startups Showcase](https://startups.aws.com/showcase/startup-details/64ff1895-6cb1-4fd5-b262-8a005f1a6ff5?lang=en-US) · [Yahoo Finance](https://finance.yahoo.com/news/testing-mavens-acquires-perfagents-perfagents-160000503.html)
-- **[ThyWord](https://thywordapp.com)** (founder). Voice-first prayer AI app. Launched February 2026, 12K+ downloads.
-  [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword)
-- **Author** of *Product Engineering in the Cloud* · O'Reilly technical reviewer
-- **Certified:** AWS Solutions Architect Associate · Certified Kubernetes Administrator (CKA) · Microsoft AZ-305 · [verify on Credly](https://www.credly.com/users/ajithjoseph/badges)
+| Venture | What it is | Outcome |
+|---|---|---|
+| **[PerfAgents](https://perfagents.com)** | Kubernetes-native synthetic monitoring SaaS. Founder. | Bootstrapped to 20+ enterprise clients. [Acquired by Testing Mavens](https://www.testingmavens.com/press-releases/testing-mavens-acquires-perfagents) in 2025. [AWS Startups Showcase](https://startups.aws.com/showcase/startup-details/64ff1895-6cb1-4fd5-b262-8a005f1a6ff5?lang=en-US) · [Yahoo Finance](https://finance.yahoo.com/news/testing-mavens-acquires-perfagents-perfagents-160000503.html) |
+| **[ThyWord](https://thywordapp.com)** | Voice-first prayer AI app. Founder. | Launched February 2026. 12K+ downloads. [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) · [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+| **Enterprise** | 20 years building and scaling systems | Thomson Reuters · Travelport · Ameriprise Financial · Mastercard · NEER and others |
 
----
+## Credentials
+
+- Author of *Product Engineering in the Cloud* · O'Reilly technical reviewer
+- AWS Solutions Architect Associate · Certified Kubernetes Administrator (CKA) · Microsoft AZ-305 ([verify on Credly](https://www.credly.com/users/ajithjoseph/badges))
 
 ## Stack
 
@@ -46,13 +62,11 @@ Launched July 2026 → [GitHub repo](https://github.com/ajithjoseph/evalstack) �
 | Inference | vLLM · FastAPI · Docker |
 | Infra & orchestration | Kubernetes · Terraform · AWS |
 | Languages | Python · TypeScript |
-| Evals & observability | [EvalStack](https://github.com/ajithjoseph/evalstack) |
-
----
+| Evals & CI gates | [EvalStack](https://github.com/ajithjoseph/evalstack) · [ShadowTel](https://shadowtel.com) |
 
 ## Building in public
 
-Every week I post build logs, architecture decisions, and what actually works in production AI systems.
-Find me on [LinkedIn](https://linkedin.com/in/theajithjoseph), [Substack](https://codekidsandcash.com), or [ajith.ai](https://ajith.ai).
+Every week I share build logs, architecture decisions, and what actually works in production AI systems.
+Follow along on [LinkedIn](https://linkedin.com/in/theajithjoseph) or [Substack](https://codekidsandcash.com).
 
-Want to talk evals, AI infra, or pre-merge performance testing? Reach out on LinkedIn.
+Want to talk about evals, AI infrastructure or keeping AI-written code honest? [Message me on LinkedIn](https://linkedin.com/in/theajithjoseph).
