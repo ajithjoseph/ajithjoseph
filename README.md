@@ -24,14 +24,14 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 | Project | What it does | Status |
 |---|---|---|
 | **[ShadowTel](https://shadowtel.com)** | A GitHub Action that blocks a pull request when AI-written code breaks your database schema, internal APIs or architecture rules. Linters miss these. ShadowTel checks every PR against your real contracts and gives a clear pass or block. | In development |
-| **[EvalStack](https://github.com/ajithjoseph/evalstack)** | An evaluation and observability framework for production multi-agent AI systems. LLM apps are easy to build and hard to trust. EvalStack closes that gap. It grew out of the voice AI platform behind ThyWord. | Early release (v0.0.1) · [evalstack.dev](https://evalstack.dev) |
+| **[EvalStack](https://github.com/ajithjoseph/evalstack)** | An open source eval framework for LLM and multi-agent systems. It grew out of the voice AI platform behind ThyWord. The core scorers work today, and the eval runner and LLM judge are next. | Early release (v0.0.1) · [evalstack.dev](https://evalstack.dev) |
 
 ## Products and ventures
 
 | What | My role | Details |
 |---|---|---|
 | **[PerfAgents](https://perfagents.com)** | Principal Engineer · Founder | Kubernetes-native synthetic monitoring SaaS. Acquired by Testing Mavens in 2025. |
-| **[ThyWord](https://thywordapp.com)** | Principal Engineer · Co-Founder | Voice-first prayer AI app. Launched February 2026, 15K+ downloads. |
+| **[ThyWord](https://thywordapp.com)** | Principal Engineer · Co-Founder | Voice-first prayer AI app. Launched February 2026, 15,200+ downloads. |
 | **Shepherd** | Principal Engineer · Co-Founder | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
 | **Enterprise** | Architect | 20 years across banking, payments, insurance, travel and financial data |
 
@@ -61,10 +61,10 @@ All certifications are verifiable on [Credly](https://www.credly.com/users/ajith
 | Area | Tools |
 |---|---|
 | Agents & orchestration | LangChain · LangGraph · Claude Agent SDK · OpenAI Agents SDK<br>Spring AI · Amazon Bedrock Agents · MCP servers and gateways · AWS Step Functions |
-| Models & inference | OpenAI · Anthropic · Google Gemini · Gloo AI · vLLM · Ollama for local open-weight models · multi-provider routing with failover and cost control |
-| Voice AI | ElevenLabs · pluggable speech-to-text and text-to-speech |
+| Models & inference | OpenAI · Anthropic · Google Gemini · Groq · Gloo AI · vLLM · Ollama for local open-weight models · multi-provider routing with failover and cost control |
+| Voice AI | ElevenLabs · OpenAI Whisper and Groq speech-to-text |
 | Retrieval & data | PostgreSQL with pgvector · MongoDB · OpenSearch Serverless |
-| Evals | EvalStack · agent trajectory and regression scoring |
+| Evals | EvalStack (in progress) |
 | Backend & APIs | Java 21 · Spring Boot 3 · Spring Security (OAuth2, JWT) · FastAPI · WebSockets |
 | Mobile & web | React Native · Expo · Next.js · React |
 | Product & growth | RevenueCat · Firebase · PostHog |
