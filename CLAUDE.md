@@ -13,7 +13,7 @@ This repo holds my GitHub profile page. `README.md` is the page itself.
 - Titles: PerfAgents, Principal Engineer · Founder. ThyWord and Shepherd, Principal Engineer · Co-Founder.
 - ThyWord: launched February 2026, 15,200+ downloads.
 - ShadowTel: in development. Open source GitHub Action that blocks PRs when AI-written code breaks schema, API or architecture rules.
-- EvalStack: early release (v0.0.1). Only the core scorers work; the eval runner and LLM judge are not built yet. Do not claim observability, production use or trajectory scoring.
+- EvalStack: early release (v0.0.1). The eval runner and the exact-match, contains and LLM-judge scorers work, for single LLM calls. Multi-agent, RAG, MCP and dashboard are not built yet. Do not claim observability, production use or trajectory scoring.
 - Shepherd: early B2B product for churches.
 - Retrieval stack: PostgreSQL with pgvector. Don't list Pinecone.
 - Only list tools in the stack that I have actually used. Don't add tools for products that aren't built yet.
