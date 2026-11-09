@@ -24,7 +24,7 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 | Project | What it does | Status |
 |---|---|---|
 | **[ShadowTel](https://shadowtel.com)** | A GitHub Action that blocks a pull request when AI-written code breaks your database schema, internal APIs or architecture rules. Linters miss these. ShadowTel checks every PR against your real contracts and gives a clear pass or block. | In development |
-| **[EvalStack](https://github.com/ajithjoseph/evalstack)** | An open source eval framework for LLM and multi-agent systems. It grew out of the voice AI platform behind ThyWord. The core scorers work today, and the eval runner and LLM judge are next. | Early release (v0.0.1) · [evalstack.dev](https://evalstack.dev) |
+| **[EvalStack](https://github.com/ajithjoseph/evalstack)** | An open source eval framework for LLM and multi-agent systems. It grew out of the voice AI platform behind ThyWord. Today it runs one prompt or a batch, scores each reply with exact match, contains or an LLM judge, and gives a pass or fail with a reason. Multi-agent and RAG scoring are next. | Early release (v0.0.1) · [evalstack.dev](https://evalstack.dev) |
 
 ## Products and ventures
 
@@ -43,6 +43,17 @@ Scan with your phone camera to download.
 |:---:|:---:|
 | <a href="https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669"><img src="assets/thyword-ios.svg" width="160" alt="QR code for ThyWord on the App Store"></a> | <a href="https://play.google.com/store/apps/details?id=com.thywordinc.thyword"><img src="assets/thyword-android.svg" width="160" alt="QR code for ThyWord on Google Play"></a> |
 | [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) | [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+
+## Side builds
+
+Small apps I built to try out an idea.
+
+| Project | What it does |
+|---|---|
+| **[Arena](https://github.com/ajithjoseph/arena.ajith.ai)** | A small first-person duel game in the browser. You against a bot, first to five rounds. Plain WebGL in one file. |
+| **[Screenly](https://github.com/ajithjoseph/screenly.ajith.ai)** | Works out your average daily screen time. One page, and your entries stay in your browser. |
+| **[Launch a Day](https://github.com/ajithjoseph/anapp.ajith.ai)** | Helps makers ship one small app every day, with streaks, a launches feed and profiles. Node and SQLite, no dependencies. |
+| **[ajith.ai](https://github.com/ajithjoseph/ajith.ai)** | My personal site. Plain HTML and CSS, with notes published by Claude Code. |
 
 ## Credentials
 
