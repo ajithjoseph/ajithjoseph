@@ -35,6 +35,15 @@ along with <b>synthetic monitoring</b> and <b>pre-merge CI gates</b> that catch 
 | **Shepherd** | Principal Engineer · Co-Founder | Early B2B product for churches. Each church gets one text number that answers members from the church's own teaching and information, with citations and handoff to a pastor. |
 | **Enterprise** | Architect | 20 years across banking, payments, insurance, travel and financial data |
 
+### Try ThyWord
+
+Scan with your phone camera to download.
+
+| iOS | Android |
+|:---:|:---:|
+| <a href="https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669"><img src="assets/thyword-ios.svg" width="160" alt="QR code for ThyWord on the App Store"></a> | <a href="https://play.google.com/store/apps/details?id=com.thywordinc.thyword"><img src="assets/thyword-android.svg" width="160" alt="QR code for ThyWord on Google Play"></a> |
+| [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) | [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
+
 ## Side builds
 
 Small apps I built to try out an idea.
@@ -45,15 +54,6 @@ Small apps I built to try out an idea.
 | **[Screenly](https://github.com/ajithjoseph/screenly.ajith.ai)** | Works out your average daily screen time. One page, and your entries stay in your browser. |
 | **[Launch a Day](https://github.com/ajithjoseph/anapp.ajith.ai)** | Helps makers ship one small app every day, with streaks, a launches feed and profiles. Node and SQLite, no dependencies. |
 | **[ajith.ai](https://github.com/ajithjoseph/ajith.ai)** | My personal site. Plain HTML and CSS, with notes published by Claude Code. |
-
-### Try ThyWord
-
-Scan with your phone camera to download.
-
-| iOS | Android |
-|:---:|:---:|
-| <a href="https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669"><img src="assets/thyword-ios.svg" width="160" alt="QR code for ThyWord on the App Store"></a> | <a href="https://play.google.com/store/apps/details?id=com.thywordinc.thyword"><img src="assets/thyword-android.svg" width="160" alt="QR code for ThyWord on Google Play"></a> |
-| [App Store](https://apps.apple.com/us/app/thyword-prayer-scripture/id6758917669) | [Google Play](https://play.google.com/store/apps/details?id=com.thywordinc.thyword) |
 
 ## Credentials
 
