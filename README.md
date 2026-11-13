@@ -50,8 +50,8 @@ Small apps I built to try out an idea.
 
 | Project | What it does |
 |---|---|
-| **[Arena](https://github.com/ajithjoseph/arena.ajith.ai)** | A small first-person duel game in the browser. You against a bot, first to five rounds. Plain WebGL in one file. |
-| **[Screenly](https://github.com/ajithjoseph/screenly.ajith.ai)** | Works out your average daily screen time. One page, and your entries stay in your browser. |
+| **[Arena](https://ajith.ai/arena/)** | A small first-person duel game in the browser. You against a bot, first to five rounds. Plain WebGL, no libraries. [Code](https://github.com/ajithjoseph/arena.ajith.ai) |
+| **[Screenly](https://ajith.ai/screenly/)** | Works out your average daily screen time. One page, and your entries stay in your browser. [Code](https://github.com/ajithjoseph/screenly.ajith.ai) |
 | **[Launch a Day](https://github.com/ajithjoseph/anapp.ajith.ai)** | Helps makers ship one small app every day, with streaks, a launches feed and profiles. Node and SQLite, no dependencies. |
 | **[ajith.ai](https://github.com/ajithjoseph/ajith.ai)** | My personal site. Plain HTML and CSS, with notes published by Claude Code. |
 
